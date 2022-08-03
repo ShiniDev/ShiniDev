@@ -4,7 +4,7 @@ I'm Mark Joefrey Jan Willard M. Laurente. I'm a PHP Developer and have been deve
 
 I've been developing food delivery, booking, and ticket based systems. I also have experience in 3rd party API integration, most of them related to online payment gateways such as Dragonpay and ShopeePay.
 
-I excel in configuration and optimization of Linux Web Servers.
+I also configure and tune Linux Web Servers.
 
 Technology
 - Linux
